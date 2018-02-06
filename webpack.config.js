@@ -14,6 +14,9 @@ module.exports = {
     libraryTarget: "umd",
     library: "app",
   },
+  node: {
+    fs: 'empty',
+  },
   devtool: 'source-map',
   module: {
     loaders: [
@@ -32,7 +35,15 @@ module.exports = {
   },
   plugins: [
     new webpack.optimize.OccurrenceOrderPlugin(),
-    new webpack.optimize.UglifyJsPlugin({compress: {warnings: false}})
+    new webpack.optimize.UglifyJsPlugin({
+      compress: {
+        warnings: false,
+      },
+      output: {
+        comments: false,
+      },
+      sourceMap: true,
+    })
   ],
   resolve: {
   }
