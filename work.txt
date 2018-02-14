@@ -1,51 +1,41 @@
 STRML.net
 =========
 
-Samuel Reed
-CTO, BitMEX (The Bitcoin Mercantile Exchange)
+Chris Kayode Alayode Samuel Jr
+Senior Developer, Yamanote Studios (山の手)
 Full-Stack / NodeJS / DevOps
 
 Contact
 -------
 
-* sam at bitmex dot com
-* samuel.trace.reed at gmail dot com
-* STRML on irc.freenode.net
-* @STRML_ on Twitter
+* chris at kayode dot me
+* ksamuel.chris at gmail dot com
+* Alayode on irc.freenode.net
+* @magic_looter on Twitter
 
 Availability
 ------------
 
 At this time, I am busy. I am happy to entertain
-proposals for later work but immediate availability
+proposals for future work but immediate availability
 is scarce.
 
 Projects
 --------
 
-* www.BitMEX.com
-* www.Securesha.re
-* www.Tixelated.com
-* www.BrightestYoungThings.com
+* 
+* www.kayode.me
+* www.crytoflix.com
+* www.crytoflix.io
 and of course...
-* www.strml.net
+* www.ckasj.com
 
 Open Source
 -----------
 
-* Babel
-* React-Grid-Layout
-* React-LocalStorage
-* React-Router-Component
-* React-Resizable
-* React-Draggable
-* OpenBazaar
-* JSXHint
-* BTChip-Signing-Tools
-* TextFit
-* Imgur-to-GFYcat
-* backbone.queryRouter
-* backbone.layoutManager
-* Mongoose-Filter-Denormalize
+* Typescript
+* Angular 5 Datepicker
+* Angular-LocalStorage
+* Stepmania
 
 
