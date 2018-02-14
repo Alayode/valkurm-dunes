@@ -1,15 +1,15 @@
 /**
  *
- * Hey. My name's Chris Samuel.  of kayode.me and an occasional
+ * Hey. My name's Chris Samuel Creative Technologist and an Occasional
  * freelance contractor.
  *
- * I build interactive websites.
+ * I enjoy writing code for the web.
  *
- * How about some live coding?
+ * How about brief demonstration.....
  */
 
 /**
- * Let's begin. We start by animating... well, everything.
+ * Let's start. We start by animating... this very screen.
  */
 
 * {
@@ -24,11 +24,11 @@
  */
 
 html {
-  background: rgb(63, 82, 99);
+  background: rgb(15, 16, 17);
 }
 
 /***
- * Hold on...
+ * Hold on I am a big fan of dark themes...
  */
 
 pre, a {
@@ -38,7 +38,7 @@ pre, a {
 /**
  * That's better. Sorry about your eyes.
  *
- * Working in this big empty space is tough.
+ * Working with this huge real estate is tough.
  *
  * I'm going to make a nice area for us to work in.
  */
@@ -58,8 +58,8 @@ pre:not(:empty) {
 }
 
 /**
- * Okay. We're going to start filling up the screen.
- * Let's get ready to do some work.
+ * Okay. We're going to start coding up the screen.
+ * Let's get ready use some CSS3.
  */
 
 #style-text {
