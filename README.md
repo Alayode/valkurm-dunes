@@ -20,3 +20,6 @@ Building for Production
 ```bash
 npm run build
 ```
+
+
+# Updates to the application on HEROKU updated Billing
